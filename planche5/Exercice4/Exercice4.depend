@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734786244 source:d:\semestre 1 mi\c++\planche5\exercice4\src\complexe.cpp
+	"Complexe.h"
+	<iostream>
+	<cmath>
+
+1734786244 d:\semestre 1 mi\c++\planche5\exercice4\include\complexe.h
+
+1734786306 source:d:\semestre 1 mi\c++\planche5\exercice4\main.cpp
+	<iostream>
+	"Complexe.h"
+
